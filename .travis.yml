@@ -1,15 +1,12 @@
 
-
-
-
 languagei: python
 python:
-	"2.6"
-	"2.7"
-	"3.3"
-	"3.4"
-	"3.5"
+ "2.6"
+ "2.7"
+ "3.3"
+ "3.4"
+ "3.5"
 install:
-	echo "This is install process"
+ echo "This is install process"
 script:
-	echo "This is script process"
+ echo "This is script process"
